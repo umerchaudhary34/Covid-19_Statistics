@@ -1,8 +1,6 @@
-# Regov-technical
-
-Technical Assessment
-
 # Application Name: Covid-19 Statistics
+
+# Application Stack: React Native/ Zustand/ React Query
 
 # Developer: Muhammad Umer Rehman
 
